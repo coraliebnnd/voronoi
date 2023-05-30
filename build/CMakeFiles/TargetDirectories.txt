@@ -1,0 +1,3 @@
+/home/coralie/Documents/Programmation/Voronoi_delaunay/build/CMakeFiles/VoronoiApp.dir
+/home/coralie/Documents/Programmation/Voronoi_delaunay/build/CMakeFiles/edit_cache.dir
+/home/coralie/Documents/Programmation/Voronoi_delaunay/build/CMakeFiles/rebuild_cache.dir

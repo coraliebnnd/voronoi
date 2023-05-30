@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/coralie/Documents/Programmation/Voronoi_delaunay/build",
+  "command": "/usr/bin/gcc  -I/home/coralie/Documents/Programmation/Voronoi_delaunay/src -I/usr/include/SDL2 -g -Wall -Wextra -Wpedantic -o CMakeFiles/VoronoiApp.dir/src/SDL2_gfxPrimitives.c.o -c /home/coralie/Documents/Programmation/Voronoi_delaunay/src/SDL2_gfxPrimitives.c",
+  "file": "/home/coralie/Documents/Programmation/Voronoi_delaunay/src/SDL2_gfxPrimitives.c"
+},
+{
+  "directory": "/home/coralie/Documents/Programmation/Voronoi_delaunay/build",
+  "command": "/usr/bin/g++  -I/home/coralie/Documents/Programmation/Voronoi_delaunay/src -I/usr/include/SDL2 -g -Wall -Wextra -Wpedantic -o CMakeFiles/VoronoiApp.dir/src/application_ui.cpp.o -c /home/coralie/Documents/Programmation/Voronoi_delaunay/src/application_ui.cpp",
+  "file": "/home/coralie/Documents/Programmation/Voronoi_delaunay/src/application_ui.cpp"
+},
+{
+  "directory": "/home/coralie/Documents/Programmation/Voronoi_delaunay/build",
+  "command": "/usr/bin/g++  -I/home/coralie/Documents/Programmation/Voronoi_delaunay/src -I/usr/include/SDL2 -g -Wall -Wextra -Wpedantic -o CMakeFiles/VoronoiApp.dir/src/main.cpp.o -c /home/coralie/Documents/Programmation/Voronoi_delaunay/src/main.cpp",
+  "file": "/home/coralie/Documents/Programmation/Voronoi_delaunay/src/main.cpp"
+}
+]
